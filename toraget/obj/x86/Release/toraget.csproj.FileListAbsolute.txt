@@ -1,0 +1,9 @@
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\bin\Release\toraget.exe.config
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\bin\Release\toraget.exe
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\bin\Release\toraget.pdb
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\toraget.fMain.resources
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\toraget.Properties.Resources.resources
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\toraget.csproj.GenerateResource.Cache
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\toraget.exe
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Release\toraget.pdb
