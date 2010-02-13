@@ -1,0 +1,10 @@
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\bin\Debug\toraget.exe.config
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\toraget.Properties.Resources.resources
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\bin\Debug\toraget.exe
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\bin\Debug\toraget.pdb
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\toraget.exe
+d:\profiles\我的文档\visual studio 2010\Projects\toraget\toraget\obj\x86\Debug\toraget.pdb
+D:\Profiles\我的文档\Visual Studio 2010\Projects\toraget\toraget\obj\x86\Debug\toraget.fMain.resources
